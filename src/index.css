@@ -4,10 +4,11 @@
 
 @font-face {
   font-family: "Propmt-Regular";
-  src: url("/public//font//Prompt-Regular.ttf");
+  src: url("/src/assets/font/Prompt-Regular.ttf");
 }
 
 * {
-  box-sizing: border-box;
+
   font-family: "Propmt-Regular";
+  box-sizing: border-box;
 }
